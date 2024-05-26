@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshalkudale" alt="harshalkudale" /></a> </p>
 
-- 🤔 One suggestion [Please do not reinvent the wheel unless you have better wheel idea.](Please do not reinvent the wheel unless you have better wheel idea.)
+- 🤔 One suggestion **Please do not reinvent the wheel unless you have better wheel idea.**
 
 - 📫 How to reach me **incognitomail@duck.com**
 
