@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harshal Kudale</h1>
-<h3 align="center">A passionate fullStack developer from India. I like to code. When I am not coding I am gaming.</h3>
+<h3 align="center">A fullStack developer from India. I like to code. When I am not coding I am gaming.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshalkudale&label=Profile%20views&color=0e75b6&style=flat" alt="harshalkudale" /> </p>
 
